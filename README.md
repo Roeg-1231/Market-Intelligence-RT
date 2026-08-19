@@ -76,6 +76,3 @@ python src/pipeline/run_processing.py
 # 3. Lanzar Dashboard
 streamlit run ui/app.py
 ```
-
----
-**Desarrollado como proyecto de Portafolio Senior en Data Engineering.**
